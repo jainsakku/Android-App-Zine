@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lenovo.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application xmlns:tools="http://schemas.android.com/tools"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:label">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Ourmentor1"
+            android:label="@string/title_activity_ourmentor1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".contact"
+            android:label="@string/title_activity_contact"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".faq"
+            android:label="@string/title_activity_faq"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Achivements"
+            android:label="@string/title_activity_achivements"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".faq1"
+            android:label="@string/title_activity_faq1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProjectsActivity"
+            android:label="Projects"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Query"
+            android:label="Query"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RegisterActivity"
+            android:label="Register"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".FAQactivity" />
+        <activity android:name=".Notification" />
+        <activity android:name=".ListActivity"
+            android:label="Second year"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ListActivity1"
+            android:label="Third year"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".ListActivity2"
+            android:label="Fourth year"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".ListActivity3"
+            android:label="workshop"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".DetailActivity"
+            android:label="detail"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".DetailActivity1"
+            android:label="detail"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".DetailActivity2"
+            android:label="detail"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".DetailActivity3"
+            android:label="detail"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".PracticalDetailActivity"
+            android:label="Workshop"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".WorkshopDetailActivity"
+            android:label="Workshop"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".Workshop3"
+            android:label="Workshop"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".WorkshopActivity"
+            android:label="Workshop"
+            android:theme="@style/AppTheme.NoActionBar"/>
+    </application>
+
+</manifest>

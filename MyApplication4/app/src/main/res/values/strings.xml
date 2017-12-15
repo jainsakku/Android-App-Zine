@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ZINE</string>
+    <string name="permission_rationale">Contacts permissions are needed for providing email\n completions.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home"> Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology , Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems. It is comprised of students from various disciplines. Zine has been the only active robotics and research group of MNIT for the last 7 years, since its foundation. We have participated in various national and international events related to a multitude of fields, have done the core research with publishing research articles in reputed publications like IEEE journals etc.</string>
+    <string name="Ourmentor"> Dr. Rajesh Kumar received the Bachelor of Technology in Engineering degree with honors in Electrical Engineering from the Department of Electrical Engineering, National Institute of Technology, Kurukshetra, India in 1994, Master of Engineering with honors in Power Engineering from the Department of Electrical Engineering, Malaviya National Institute of Technology, Jaipur, India in 1997 and Ph.D. degree in Intelligent Systems from the University of Rajasthan, India in 2005. He is currently Associate Professor at Department of Electrical Engineering; Adjunct Associate Professor at Centre of Energy and Environment at Malaviya national Institute of Technology, Jaipur, India.
+
+He has been Research Fellow (A) at the Department of Electrical and Computer Engineering at National University of Singapore from 2009-2011. He has been Reader from 2005-2009, Senior Lecturer from 2000-2005 and Lecturer from 1995-2000 at Department of Electrical Engineering, Malaviya National Institute of Technology. He is the Founder of ZINE student innovative group.His background is in the fields of Computational Intelligence, Artificial Intelligence,  power engineering, energy harvesting and management, control theory, robotics, automation, bioinformatics , smart grid, manufacturing, computer vision and signal processing.
+
+</string>
+    <string name="Ourmentor1"> Dr. Rajesh Kumar received the Bachelor of Technology in Engineering degree with honors in Electrical Engineering from the Department of Electrical Engineering, National Institute of Technology, Kurukshetra, India in 1994, Master of Engineering with honors in Power Engineering from the Department of Electrical Engineering, Malaviya National Institute of Technology, Jaipur, India in 1997 and Ph.D. degree in Intelligent Systems from the University of Rajasthan, India in 2005. He is currently Associate Professor at Department of Electrical Engineering; Adjunct Associate Professor at Centre of Energy and Environment at Malaviya national Institute of Technology, Jaipur, India.
+
+He has been Research Fellow (A) at the Department of Electrical and Computer Engineering at National University of Singapore from 2009-2011. He has been Reader from 2005-2009, Senior Lecturer from 2000-2005 and Lecturer from 1995-2000 at Department of Electrical Engineering, Malaviya National Institute of Technology. He is the Founder of ZINE student innovative group.His background is in the fields of Computational Intelligence, Artificial Intelligence,  power engineering, energy harvesting and management, control theory, robotics, automation, bioinformatics.
+
+</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_ourmentor1">Ourmentor1</string>
+    <string name="title_activity_contact">contact</string>
+    <string name="title_activity_contacts1">contacts1</string>
+    <string name="title_activity_faq">faq</string>
+    <string name="q1">How to register for Zine workshop?</string>
+    <string name="q2">What are Workshop dates?</string>
+    <string name="q3">Do you charge anything for workshop?</string>
+    <string name="q4">What is last date of submission?</string>
+    <string name="q5">Where would be the workshop held?</string>
+    <string name="q6">What is the criteria to be apart of zine team?</string>
+    <string name="a1">Go to the registration desk near sports complex and get yourself registered by paying the fees.There would be a offline registration for each student. </string>
+    <string name="a2">Workshop is scheduled to be held from 1st sept  to 12th sept.</string>
+    <string name="a3"> Yes, the charge is rupees 900 per head.</string>
+    <string name="a4">The last date for submission is 27 aug.</string>
+    <string name="a5">Details will be updated soon n our website ,app and facebook page.</string>
+    <string name="a6">Post workshop there will be a exam and a interview for shortlisted candidates.</string>
+    <string name="title_activity_achivements">Achivements</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_faq1">faq1</string>
+    <string name="title_activity_projects">ProjectsActivity</string>
+    <string name="title_activity_workshop">WorkshopActivity</string>
+    <string name="title_activity_workshop1">Workshop1Activity</string>
+    <string name="title_activity_workshop2">Workshop2</string>
+</resources>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="Branch">
+
+
+    <item>Electronics and Communication Engineering</item>
+    <item>Civil Engineering</item>
+    <item>Electrical Engineering</item>
+    <item>Metallurgy</item>
+
+    <item>Mechanical Engineering</item>
+    <item>Computer Engineering</item>
+
+    <item>Architecture</item>
+
+
+    <item>Chemical Engineering</item>
+
+
+
+
+</array>
+    <array name="workshop_contact">
+        <item>2015ume1343@mnit.ac.in\n</item>
+        <item>sahilayank91@gmail.com\n 2015ucp1129@mnit.ac.in\n</item>
+        <item>2015uec1587@mnit.ac.in\n2015ume1517@mnit.ac.in\n</item>
+        <item>sahilayank91@gmail.com\n</item>
+        <item>2015uee1214@mnit.ac.in\n</item>
+        <item>2015uec1587@mnit.ac.in\n</item>
+        <item>2015uee1214@mnit.ac.in\n2015uee1214@mnit.ac.in\n</item>
+        <item>2015ume1343@mnit.ac.in\n</item>
+        <item>2015ume1517@mnit.ac.in\n</item>
+        <item>sahilayank91@gmail.com\n2015ucp1129@mnit.ac.in\n</item>
+    </array>
+    <array name="workshop_desc">
+        <item>This lecture aims at providing enough knowledge to build a Mechanically feasible design of a bot</item>
+        <item>You will be taught the basics of making an Android App using the official Android Studio IDE.</item>
+        <item>This lecture aims at teaching the basics of Aeromodelling and Aerodynamics.</item>
+        <item>This Lecture aims at teaching how to make a website and make it interactive and also to connect with the database and the servers</item>
+        <item>Matlab is used as a calculator that can simplify our work a lot. It has multidisciplinary applications as in Mathematics, Software, Electronic and Electrical Engineering and many more. It is an authentic software</item>
+        <item>This lecture aims at teaching the basics of computer programming and fundamentals of programming of Arduino and Raspberry Pi</item>
+        <item>This lecture will introduce you to ICs which are the basic elements of almost every technical device, following programmable ones which you can code to work out in any way you want.</item>
+        <item>Sensors To Robots are like Senses To Human.This lecture is helpful for understanding the working of basic sensors and their applications.</item>
+        <item>This session is aimed to teach students the basics of electronics</item>
+        <item>You will get to know various neat tricks plausible on Windows,and\nHow to keep your computer protected and how to access others social networks or Wifi.</item>
+    </array>
+    <array name="workshop_future">
+        <item>After attending this, you will be able to use various type of gears, will know their mechanism of working, and from then you will see the world in a new perspective of mechanics.</item>
+        <item>Android is fast emerging as the most used OS on mobile phones. Acquiring the skills of creating basic apps for the same in the lecture, you can nurture them further and who knows we may all be using your app soon!</item>
+        <item>After attending this lecture, you would be able to understand how these flying machines soar high up in the air and understand how to make a model aeroplane on your own</item>
+        <item>Web development has became a necessity nowadays. After this lecture you will be able to make a website with awesome designs using various languages. Also you will get to know about the databases and the Backend.</item>
+        <item>Since it useful in almost every field of education and research, Learning Matlab can give us a boost in our technical and research career. Image and video processing is a vital application. It is easy to code many algorithm in Matlab which are difficult to implement in other environments.</item>
+        <item>After attending this lecture, you would be able to write a program code on your own, control the brains of your robots, and use a mini-computer which can fit into your pockets!</item>
+        <item>One can make amazing circuits like blinking of Led using 555 Timer IC on their own. You will also be able to work upon the brain of Robots !!!</item>
+        <item>You can design a cicuit or a robot which can Interact and gather information from the Environment, hence make autonomous robots !!</item>
+        <item>Electronics are widely used nowadays from a torch to the Smartphones. You will be able to identify and use the basic electronic components. The Electronics is going to be very vital in your life in the future.</item>
+        <item>You can go on to become a white or grey hat hacker and serve as an integral part of any company which stores/manipulates data online. Or you could use the acquired skills just to make sure you dont fall prey to the vicious dark corners of the internet.</item>
+    </array>
+    <array name="workshop_members">
+        <item>Ankit Pachauri\nRashesh Vagadia</item>
+        <item>Sahil Ayank\nKriti Gupta</item>
+        <item>Piyush Jha \nRashesh Vagadia</item>
+        <item>Sahil Ayank\nVrinda Agarwal</item>
+        <item>Divyam Aditya Singh\nMohammad Saif</item>
+        <item>Vrinda Agarwal \nPiyush Jha</item>
+        <item>Mohammad Saif \nDivyam Aditya Singh \nPuru Lokendra Singh\nAyushi Jain</item>
+        <item>Ayushi Jain\nParth Agarwal</item>
+        <item>Ankit Pachauri\nRashesh Vagadia</item>
+        <item>Sahil Ayank\nKriti Gupta\nPuru Lokendra Singh</item>
+    </array>
+    <array name="workshop_pic">
+        <item>@drawable/android</item>
+        <item>@drawable/android</item>
+        <item>@drawable/android</item>
+        <item>@drawable/android</item>
+        <item>@drawable/android</item>
+        <item>@drawable/android</item>
+        <item>@drawable/android</item>
+        <item>@drawable/android</item>
+        <item>@drawable/android</item>
+        <item>@drawable/android</item>
+    </array>
+
+    <array name="workshop_title">
+        <item>Basic Mechanics</item>
+        <item>Android App</item>
+        <item>Aeromodelling</item>
+        <item>Web Designing</item>
+        <item>MATLAB</item>
+        <item>Algo and Pseudo Code</item>
+        <item>ICs and MCUs</item>
+        <item>Sensors</item>
+        <item>Basic Electronics</item>
+        <item>Ethical Hacking</item>
+    </array>
+    <array name="workshop_topics">
+        <item>Mechanical tools,\nActuators,\nSteering Mechanisms,\nTypes of wheels,\nPower Transmission,\nDesigning Softwares</item>
+        <item>History of Operating System of Phones;\nWhat is Android?;\nDevelopment of Android;\nAndroid Architecture;\nAndroid Layout;\nDeveloping your own Android App.</item>
+        <item>Introduction,\nBasic Aerodynamics Terms, \nParts of Aeroplanes,\nDIY,\nTypes of Helicopter and its Mechanism,\nQuadcopters and its Stabilization\n</item>
+        <item></item>
+        <item>Introduction to Matlab software\nUses,\nApplication in various fields,\nImage processing,\nSimulation (simulink).</item>
+        <item>Introduction to programming languages,\nBasics of C programming-variables,\nConstants,\nKeywords,\nDatatypes,\nOperators,\nDesicion making statements,\nLoops,\nFunctions,\nArrays,\nIntroduction to Arduino and its programming,\nMaking of line follower robot,\nIntroduction to Raspbery Pi.</item>
+        <item>Intro - Moores Law,\nNeed for IC,\nAdvantages/Disadvantages,\nTypes of ICs;\nIC Package,\nNaming and Numbering of ICs; \nLogic Gates, \nData Sheet,\nCommon ICs; \n\nMCU -\n\nFeatures, \nArduino,\nRaspberry Pi\n</item>
+        <item>Introduction to Sensors,\nSpecification of different Sensors,\nTypes of Sensors,\nApplication</item>
+        <item>Intro to electronic components,\nWires and connectors,\nCircuit boards,\nTransistors,\nDiodes,\nH-bridge,\nBatteries.</item>
+        <item>What is hacking?;\nVirus,\n trojan and worm;\nPassword Protected folder; \nGodMode; \nHacking User,\nFacebook and WhatsApp Accounts;\nHacking WiFi Password; Live editing in Web Browser; \nVideo as Desktop Background.</item>
+    </array>
+    <array name="workshop_practicals">
+        <item>555 Timer IC</item>
+        <item>Op-amp</item>
+        <item>Differential Drive</item>
+        <item>Arduino</item>
+    </array>
+    <array name="practical_desc">
+        <item>Lets use this awesome 555 Timer IC for some synchronized LED blinking. Make the LED dance on your commands.</item>
+        <item>Using OP-AMP for the blinking of several LED at a time.</item>
+        <item>Make a Robot which will act according to your instructions and have a competetion with the bots of your fellow members. So you will get the real feeling of robotics here at the very first time in your life..</item>
+        <item>Lets use the most used Microcontroller for the Robotics and make a Ultrasonic sensor work according to your instructions.</item>
+    </array>
+    <array name="practical_pic">
+        <item>@drawable/timer</item>
+        <item>@drawable/opamp</item>
+        <item>@drawable/differential</item>
+        <item>@drawable/arduino</item>
+    </array>
+<array name="hostel">
+
+
+
+    <item>No</item>
+    <item>Yes</item>
+
+</array>
+</resources>

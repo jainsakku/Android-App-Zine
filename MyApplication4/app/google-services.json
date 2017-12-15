@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "86998984672",
+    "firebase_url": "https://lenovo-60bbc.firebaseio.com",
+    "project_id": "lenovo-60bbc",
+    "storage_bucket": "lenovo-60bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86998984672:android:56b8209dd6aa0e1d",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86998984672-ib7eccv2ukpc8emusp18odjm2fgkk24v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp99ND7wlL5q98InxpoFCnFYnaDE0OpbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
